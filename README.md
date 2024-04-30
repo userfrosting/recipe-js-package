@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE.md)
 [![Build](https://img.shields.io/github/actions/workflow/status/userfrosting/recipe-js-package/Build.yml?branch=5.0&logo=github)](https://github.com/userfrosting/recipe-js-package/actions)
 [![Codecov](https://codecov.io/gh/userfrosting/recipe-js-package/branch/5.0/graph/badge.svg)](https://app.codecov.io/gh/userfrosting/recipe-js-package/branch/5.0)
-[![StyleCI](https://github.styleci.io/repos/793283029/shield?branch=5.0&style=flat)](https://github.styleci.io/repos/793283029)
+[![StyleCI](https://github.styleci.io/repos/793848449/shield?branch=5.0&style=flat)](https://github.styleci.io/repos/793848449)
 [![PHPStan](https://img.shields.io/github/actions/workflow/status/userfrosting/recipe-js-package/PHPStan.yml?branch=5.0&label=PHPStan)](https://github.com/userfrosting/recipe-js-package/actions/workflows/PHPStan.yml)
 [![Join the chat](https://img.shields.io/badge/Chat-UserFrosting-brightgreen?logo=Rocket.Chat)](https://chat.userfrosting.com)
 [![Donate](https://img.shields.io/badge/Open_Collective-Donate-blue?logo=Open%20Collective)](https://opencollective.com/userfrosting#backer)
