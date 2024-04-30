@@ -3,3 +3,4 @@ require('@userfrosting/theme-adminlte');
 
 // ------ Custom Code ------
 // Add you own code below
+require('./darkreader.js')
